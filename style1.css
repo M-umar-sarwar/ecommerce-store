@@ -25,7 +25,7 @@ body{
    
 }
 .logo{
-    background-image: url(/porject/amazon_logo.png);
+    background-image: url(amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 114px;
@@ -144,8 +144,8 @@ body{
        
 
        }
-       .flag-us{background-image: url(/porject/777.jpg);}
-       .flag-pk{background-image: url(/porject/888.jpg);}
+       .flag-us{background-image: url(777.jpg);}
+       .flag-pk{background-image: url(888.jpg);}
 
        .arrow{
         font-size: 10px;
@@ -308,7 +308,7 @@ body{
         align-items: center;
        
          height: 600px;
-        background-image: url(/porject/107.jpg);
+        background-image: url(107.jpg);
         background-size: cover;
         background-position: center;
        
@@ -360,7 +360,7 @@ body{
         padding: 20px 0px 15px;
        }
        .imag-box{
-        background-image: url(/porject/307.jpg);
+        background-image: url(307.jpg);
         height: 260px;
         background-position: center;
         background-size: cover;
@@ -377,7 +377,7 @@ body{
         
       }
          .imag-box2{
-        background-image: url(/porject/311.jpg);
+        background-image: url(311.jpg);
         height: 260px;
         background-position:center;
         background-size: cover;
