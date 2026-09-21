@@ -25,7 +25,7 @@ body{
    
 }
 .logo{
-    background-image: url(amazon_logo.png);
+    background-image: url(logo.png);
     background-size: cover;
     height: 50px;
     width: 114px;
@@ -683,7 +683,7 @@ margin-top: -20px;
     height: 70px;
   } */
   .footer-logo{
-    background-image: url(/porject/amazon_logo.png);
+    background-image: url(logo.png);
     background-size: cover;
     height: 50px;
     width: 114px;
@@ -692,7 +692,7 @@ margin-top: -20px;
                /* oihieptttttttttttttttttttttttttt */
 
                .footer-bottom {
-  background-color: #232F3E; /* Amazon ka dark blue */
+  background-color: #232F3E; /* zon ka dark blue */
   padding: 30px 20px;
   display: flex;
   flex-direction: row;
