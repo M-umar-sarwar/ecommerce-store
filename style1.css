@@ -36,7 +36,7 @@ body{
    
 }
 .logo{
-    /* background-image: url(logo.png); */
+    background-image: url(logo.png);
     background-size: cover;
     height: 50px;
     width: 114px;
@@ -1267,8 +1267,8 @@ input {
     }
 
     .pnal-all {
-        font-size: 13px;
-        padding: 7px 5px;
+        font-size: 12px;
+        padding: 5px 3px;
     }
 
     .pnals-opo {
@@ -1281,7 +1281,7 @@ input {
 
     .pnals-opo a {
         font-size: 12px;
-        padding: 7px 4px;
+        padding: 5px 3px;
         margin: 0 2px;
         display: inline-block;
     }
